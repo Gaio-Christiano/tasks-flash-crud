@@ -1,0 +1,5 @@
+abra o power shell;
+navegue até essa pasta;
+execute:
+pip install -r requirements.txt      ou
+pip3 install -r requirements.txt 
